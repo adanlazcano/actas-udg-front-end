@@ -20,4 +20,4 @@ In technical terms this demo was made in React.js, Express.js & MongoDB.
 
 [Visit the page](https://actas-udg.netlify.app)
 
-[Visit side server repo](https://github.com/adanlazcano/actas-udg)
+[Visit server side repo](https://github.com/adanlazcano/actas-udg)
