@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import {useContext} from 'react';
 import MainContext from '../context/MainContext';
-import './css/components.css';
+import './css/components.scss';
 
 //Draw Header and set search
 const Header = () => {
